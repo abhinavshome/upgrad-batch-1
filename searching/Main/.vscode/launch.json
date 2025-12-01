@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "Main_a580e2d4",
+            "vmArgs": "-ea"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Main_a580e2d4",
+            "vmArgs": "-ea"
+        },
+        {
+            "type": "java",
+            "name": "Run Class",
+            "request": "launch",
+            "vmArgs": "-enableassertions",
+            "mainClass": "${file}"
+        }
+    ]
+}

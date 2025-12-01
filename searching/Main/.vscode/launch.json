@@ -2,6 +2,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Main_a580e2d4",
+            "vmArgs": "-ea"
+        },
+        {
+            "type": "java",
             "name": "LinearSearch",
             "request": "launch",
             "mainClass": "LinearSearch",

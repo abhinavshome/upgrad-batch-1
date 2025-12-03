@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "batch-1_de714989"
+        },
+        {
+            "type": "java",
+            "name": "BuubleSort",
+            "request": "launch",
+            "mainClass": "BuubleSort",
+            "projectName": "batch-1_de714989"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "batch-1_de714989"
+        },
+        {
+            "type": "java",
+            "name": "Run Class",
+            "request": "launch",
+            "vmArgs": "-enableassertions",
+            "mainClass": "${file}"
+        }
+    ]
+}

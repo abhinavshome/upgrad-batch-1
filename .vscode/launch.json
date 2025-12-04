@@ -5,7 +5,8 @@
             "name": "InsertionSort",
             "request": "launch",
             "mainClass": "InsertionSort",
-            "projectName": "batch-1_de714989"
+            "projectName": "batch-1_de714989",
+            "vmArgs": "-ea"
         },
         {
             "type": "java",

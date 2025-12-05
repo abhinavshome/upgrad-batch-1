@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NextLargerUsingStack",
+            "request": "launch",
+            "mainClass": "NextLargerUsingStack",
+            "projectName": "batch-1_de714989"
+        },
+        {
+            "type": "java",
             "name": "NextLarger",
             "request": "launch",
             "mainClass": "NextLarger",

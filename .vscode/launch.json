@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalancedParanthesis",
+            "request": "launch",
+            "mainClass": "BalancedParanthesis",
+            "projectName": "batch-1_de714989"
+        },
+        {
+            "type": "java",
             "name": "InsertionSort",
             "request": "launch",
             "mainClass": "InsertionSort",
